@@ -1,5 +1,6 @@
 # 💫 About Me:
-🐳 Knows Web Developement and Blockchain<br>🌱 Currently learning Data Science and Machine Learning
+🐳 Knows Web Developement, Blockchain, Data Science and Machine Learning.
+🔍 [My Resume](https://drive.google.com/file/d/1m_WyWp4jlLWHSg2F_znDuztUd_bTcuqb/view?usp=sharing)
 
 
 # 💻 Tech Stack:
